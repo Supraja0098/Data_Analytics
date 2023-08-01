@@ -1,0 +1,15 @@
+A	1
+a	1
+ago	1
+away	1
+far	3
+galaxy	2
+in	2
+long	1
+many	1
+stars	1
+the	1
+their	1
+time	1
+too	1
+were	1
